@@ -4,6 +4,14 @@
 
 [Vue+Webpack打造todo应用](https://www.imooc.com/learn/935) 学习记录
 
+
+---
+
+## Preview
+
+![show.gif](https://github.com/103style/vue_webpack/blob/master/show.gif)
+
+
 ---
 
 ## 环境
