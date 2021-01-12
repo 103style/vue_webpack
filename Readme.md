@@ -1,5 +1,28 @@
 [TOC]
 
+## Vue_Webpack
+
+[Vue+Webpack打造todo应用](https://www.imooc.com/learn/935) 学习记录
+
+---
+
+## 环境
+* `npm` 版本 `6.14.10`
+
+---
+
+
+## 运行项目
+* `git clone https://github.com/103style/vue_webpack.git`
+
+* `cd vue-webpack`
+
+* `npm install`
+
+* `npm run dev`
+
+
+---
 
 ## 依赖版本
 ```
@@ -47,3 +70,6 @@
 "babel-plugin-transform-vue-jsx": "^3.7.0",
 "babel-preset-env": "^1.7.0",
 ```
+
+
+---
